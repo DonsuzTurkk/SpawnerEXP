@@ -1,0 +1,5 @@
+name: SpawnerEXP
+version: 1.0
+main: tr.donsuzturk.spawnerexp.SpawnerEXP
+author: DonsuzTurk
+description: Spawner kırınca level vermesini engeller.
